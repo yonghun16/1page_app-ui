@@ -12,5 +12,5 @@
 
 | 패션 샵 APP UI |
 |----------------------|
-|<img src="https://raw.githubusercontent.com/yonghun16/fashion_store/main/design.png" width=825px />|
-|<ul><li><a href="https://yonghun16.github.io/fashion_store/"> "패션 샵 APP UI" clone</a></li><li>Single-page</li><li><a href="https://github.com/yonghun16/fashion_store"> Github </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a> </li></ul>|
+|<img src="https://raw.githubusercontent.com/yonghun16/fashion-store_ui/main/design.png" width=825px />|
+|<ul><li><a href="https://yonghun16.github.io/fashion-store_ui/"> "패션 샵 APP UI" clone</a></li><li>Single-page</li><li><a href="https://github.com/yonghun16/fashion-store_ui"> Github </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a> </li></ul>|
